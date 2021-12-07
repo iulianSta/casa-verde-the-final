@@ -178,7 +178,9 @@ const Nav = () => {
                     fontWeight: "bold",
                     textDecoration: "none",
                     width: "5.5rem",
-                    fontSize:"16px"
+                    fontSize:"16px",
+                    paddingRight:"8px"
+                    
                   }}
                   onClick={closeMenu}
                   to="/login"
@@ -191,7 +193,8 @@ const Nav = () => {
                     fontWeight: "bold",
                     textDecoration: "none",
                     width: "5.5rem",
-                    fontSize:"16px"
+                    fontSize:"16px",
+                    
                   }}
                   onClick={closeMenu}
                   to="/register"
