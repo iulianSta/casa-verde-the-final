@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div>
       <div className="animated-envelope">
-        <iframe src="https://embed.lottiefiles.com/animation/37147" />
+      <img src="./images/37147-contact-us.gif" alt="envelope animation" title="envelope"></img>
       </div>
       <ContactInformation />
       <div className="form-map">
