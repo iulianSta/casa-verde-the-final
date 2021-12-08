@@ -1,7 +1,7 @@
 import React from "react";
 import ContactForm from "./ContactForm";
 import ContactInformation from "./ContactInformation";
-import ContactSven from "./ContactSven";
+// import ContactSven from "./ContactSven";
 import Map from "./Map";
 
 const Contact = () => {
