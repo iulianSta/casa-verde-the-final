@@ -12,13 +12,14 @@ Casa Verde project is about to deliver a full MERN web application to a real bus
 - rental services
 
 
-## Resources used to build this portfolio:
+## Resources used to build this project:
 
+- ![Build Status](https://img.shields.io/badge/Mongo-DB-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet)
+- ![Build Status](https://img.shields.io/badge/Express-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/JavaScript_library-React-informational?style=flat&logo=React&logoColor=aqua&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/JavaScript_engine-Node.js-informational?style=flat&logo=Node.js&logoColor=green&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/Css_extension_lang-SASS-informational?style=flat&logo=SASS&logoColor=violet&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=blue&color=blueviolet)
- - ![Build Status](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet)
 
 
 ## Installation
