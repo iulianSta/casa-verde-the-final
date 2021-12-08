@@ -14,8 +14,8 @@ Casa Verde project is about to deliver a full MERN web application to a real bus
 
 ## Resources used to build this project:
 
-- ![Build Status](https://img.shields.io/badge/Database-Mongo DB-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet)
-- ![Build Status](https://img.shields.io/badge/Backend Framework-Express-informational?style=flat&logo=Linux&logoColor=yellow&color=blueviolet)
+ - ![Build Status](https://img.shields.io/badge/Database-Mongo_DB-informational?style=flat&logo=MongoDB&logoColor=yellow&color=blueviolet)
+ - ![Build Status](https://img.shields.io/badge/Backend_Framework-Express-informational?style=flat&logo=Express&logoColor=yellow&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/JavaScript_library-React-informational?style=flat&logo=React&logoColor=aqua&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/JavaScript_engine-Node.js-informational?style=flat&logo=Node.js&logoColor=green&color=blueviolet)
  - ![Build Status](https://img.shields.io/badge/Css_extension_lang-SASS-informational?style=flat&logo=SASS&logoColor=violet&color=blueviolet)
